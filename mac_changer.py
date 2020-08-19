@@ -1,8 +1,6 @@
-"""
-MAC Changer tool is used to change the mac address of given interface 
-Coded by Eslam Akl -> @eslam3kl 
-Thanks for Minney 
-"""
+
+# MAC Changer tool is used to change the mac address of given interface 
+# Coded by Eslam Akl -> @eslam3kl 
 #!/usr/bin/env python 
 import subprocess 
 import optparse
@@ -14,7 +12,7 @@ print("***********************************")
 print ("## MAC changer ## ")
 print(" ")
 print ('[*] Coded by Eslam Akl @eslam3kl')
-print ("[*] Thanks for Minney ")
+print ("[*] Thanks for Minn ")
 print("***********************************") 
 print(" ")
 
