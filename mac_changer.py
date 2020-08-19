@@ -8,12 +8,11 @@ import re
 
 #start the code  
 print(" ") 
-print("***********************************") 
-print ("## MAC changer ## ")
-print(" ")
-print ('[*] Coded by Eslam Akl @eslam3kl')
-print ("[*] Thanks for Minn ")
-print("***********************************") 
+print("         +----------------------------------+			")
+print("         |            MAC Changer           |			")
+print("         +----------------------------------+			")
+print("         |  coded by Eslam Akl - @elsam3kl  |			")
+print("         +----------------------------------+			")
 print(" ")
 
 #function to change the mac address
