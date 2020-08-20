@@ -1,6 +1,7 @@
 
 # MAC Changer tool is used to change the mac address of given interface 
-# Coded by Eslam Akl -> @eslam3kl 
+# Coded by Eslam Akl - @eslam3kl 
+
 #!/usr/bin/env python 
 import subprocess 
 import optparse
@@ -11,7 +12,7 @@ print(" ")
 print("         +----------------------------------+			")
 print("         |            MAC Changer           |			")
 print("         +----------------------------------+			")
-print("         |  coded by Eslam Akl - @elsam3kl  |			")
+print("         |  coded by Eslam Akl - @eslam3kl  |			")
 print("         +----------------------------------+			")
 print(" ")
 
